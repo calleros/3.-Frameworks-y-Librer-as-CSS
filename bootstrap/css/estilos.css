@@ -17,6 +17,10 @@
   width: 100px;
 }
 
+.contenido-img {
+  width: 250px;
+}
+
 .redes-sociales {
   margin-top: 10px;
 }
@@ -27,6 +31,7 @@
 }
 
 .navbar-menu {
+    background-color: rgba(8, 45, 94, 0.95);
     width: 100%;
     text-align: center;
     > li {
